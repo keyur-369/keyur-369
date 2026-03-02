@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keyur_369) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keyur-mistry-369hp) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keyurmistry334@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/369KeYuRmIsTrY) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/keyur-369) 
 ---
 
 ## 💻 Tech Stack
@@ -51,13 +51,13 @@
 ## 📊 GitHub Statistics
 
 ### Overall Stats
-![](https://github-readme-stats.vercel.app/api?username=369KeYuRmIsTrY&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=keyur-369&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ### Contribution Streak
-![](https://nirzak-streak-stats.vercel.app/?user=369KeYuRmIsTrY&theme=github_dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=keyur-369&theme=github_dark&hide_border=false)
 
 ### Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=369KeYuRmIsTrY&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keyur-369&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -89,6 +89,6 @@ Coming soon! Check out my repositories for active projects.
 
 ### ⭐ If you find my work helpful, consider giving it a star!
 
-![Profile Views](https://komarev.com/ghpvc/?username=369KeYuRmIsTrY&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=keyur-369&color=blue)
 
 </div>
